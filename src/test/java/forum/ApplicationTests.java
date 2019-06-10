@@ -12,5 +12,7 @@ public class ApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	
+	//NO TESTS ADDED AT THE END
 
 }
